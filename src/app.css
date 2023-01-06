@@ -1,0 +1,61 @@
+   h1,
+    h2 {
+        font-family: 'Mulish', sans-serif;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    ul {
+        list-style: none;
+    }
+
+    body {
+        background: linear-gradient(109.6deg, rgb(185, 212, 242) 11.2%, rgb(244, 210, 226) 100.3%);
+    }
+
+    .container {
+        display: block;
+        margin: 0 auto;
+        margin-top: 60px;
+        margin-bottom: 20px;
+        padding: 30px 20px 30px 20px;
+        width: 600px;
+        background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/060/751/original/billy-huynh-v9bnfMCyKbg-unsplash.jpg?1672414708");
+        border-radius: 5px;
+    }
+
+    .sunny {
+        font-size: 55px;
+        padding-left: 10px;
+    }
+
+    .other {
+        font-size: 45px;
+    }
+
+    .center {
+        text-align: center;
+    }
+
+    .day {
+        text-align: center;
+    }
+
+    .temp {
+        text-align: center;
+    }
+
+    .sign {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .space {
+        margin-bottom: 60px;
+    }
